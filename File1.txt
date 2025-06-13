@@ -4,3 +4,4 @@ Adding this change on the main branch
 =======
 Adding this change on the conflict branch
 >>>>>>> ConflictBranch
+Fixing an issue on the main branch
